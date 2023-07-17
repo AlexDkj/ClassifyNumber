@@ -20,7 +20,7 @@ pip install sklearn
 
 or
 
-pip3 install <nameoflibrary>
+pip3 install nameoflibrary
 
 <b> Run </b>
 
